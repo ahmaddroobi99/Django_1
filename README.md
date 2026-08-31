@@ -1,19 +1,10 @@
-# Django_1
+# Django tutorial (first pass)
 
-Original Python coursework / practice repository (2021).
+Another early Django tutorial repo from June 2021. Three top-level files. Learning Django, not a site.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** Python, Django
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2021). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-Python
-
-## Year
-
-2021
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
